@@ -1,6 +1,5 @@
 # This is my 2nd project
-<<<<<<< HEAD
-=======
-# Pretty fun stuff
+# Pretty fungit stuff
 # Its finally coming together
->>>>>>> refs/remotes/origin/main
+# This is my Abesh branch
+
